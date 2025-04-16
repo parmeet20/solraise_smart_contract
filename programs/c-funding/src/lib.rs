@@ -6,8 +6,6 @@ pub mod instructions;
 pub mod states;
 
 use instructions::*;
-#[allow(unused_imports)]
-use states::*;
 
 declare_id!("HwejASfjpMRUEGmD78gXnLX4Ga4YUMwqE45JdbQGbRKX");
 
